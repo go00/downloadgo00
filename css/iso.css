@@ -1,0 +1,47 @@
+body
+{
+    background-color:black;
+}
+
+A
+{
+    color: #cecece;
+}
+
+A:visited
+{
+    color: #cecece;
+}
+
+.container
+{
+    display: flex;
+    justify-content: center;
+}
+
+.main-text
+{
+    color: white;
+    text-align: center;
+    font-family: 'M PLUS Rounded 1c', sans-serif;
+    font-size: 28px;
+}
+
+.download-link
+{
+    color: white;
+    text-align: center;
+    font-family: 'M PLUS Rounded 1c', sans-serif;
+    font-size: 20px;
+}
+
+.bottom-text
+{
+    color: white;
+    text-align: center;
+    font-family: 'M PLUS Rounded 1c', sans-serif;
+    font-size: 20px;
+    position: absolute;
+    bottom: 10px;
+    width: 100%;
+}
