@@ -1,0 +1,30 @@
+.body
+{
+    background-color:black;
+}
+
+.black-text
+{
+    color:white;
+}
+
+.container
+{
+    text-decoration: none;
+    font-size: 16pt;
+    color: white;
+}
+
+.container2
+{
+    text-decoration: none;
+    font-size: 30pt;
+    color: white;
+}
+
+.container3
+{
+    text-decoration: none;
+    font-size: 40pt;
+    color: white;
+}
